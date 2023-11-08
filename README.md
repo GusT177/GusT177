@@ -2,11 +2,11 @@
 
 ## 0 to Game Engine
 
-###focusing on
+focusing on
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unreal,lua)](https://skillicons.dev)
 
-###Useful Tools 😀
+Useful Tools 😀
 
 [![My Skills](https://skillicons.dev/icons?i=godot,vim,visualstudio,)](https://skillicons.dev)
 
