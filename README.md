@@ -13,3 +13,4 @@ Useful Tools 😀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusT177&hide_progress=true)
 
 
+5 years in [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
