@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO THERE 👋
+
+## I'M GUS
 
 ## 0 to Game Engine
 
