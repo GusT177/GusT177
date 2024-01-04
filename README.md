@@ -4,7 +4,7 @@
 
 focusing on
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unreal,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unreal,lua,unity)](https://skillicons.dev)
 
 Useful Tools 😀
 
