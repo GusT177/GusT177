@@ -6,7 +6,7 @@
 
 focusing on
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,cmake,unreal,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,go,cmake,unreal,unity)](https://skillicons.dev)
 
 Useful Tools 😀
 
