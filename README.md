@@ -2,8 +2,6 @@
 
 ## I'M GUS
 
-## 0 to Game Engine
-
 focusing on
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,go,cmake,unreal,unity)](https://skillicons.dev)
