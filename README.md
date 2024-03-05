@@ -15,7 +15,7 @@ Useful Tools 😀
 
 ##Web Dev
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,php,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,php,tailwind,sass)](https://skillicons.dev)
 
 
 5 years in
