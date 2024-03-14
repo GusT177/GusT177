@@ -2,9 +2,11 @@
 
 ## I'M GUS
 
+---Game Dev
+
 focusing on
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,go,cmake,unreal,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unreal,unity)](https://skillicons.dev)
 
 Useful Tools 😀
 
@@ -13,7 +15,10 @@ Useful Tools 😀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusT177&layout=compact)
 
 
-##Web Dev
+---Web Dev
+
+focusing on
+[![My Skills](https://skillicons.dev/icons?i=rails,go)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,php,tailwind,sass)](https://skillicons.dev)
 
