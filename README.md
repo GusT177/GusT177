@@ -23,9 +23,6 @@ focusing on
 [![My Skills](https://skillicons.dev/icons?i=react,js,php,tailwind,sass)](https://skillicons.dev)
 
 
-5 years in
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 Useful Tools 😀
 
