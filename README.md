@@ -16,7 +16,7 @@ focusing on
 
 focusing on
 
-[![My Skills](https://skillicons.dev/icons?i=python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,java)](https://skillicons.dev)
 
 
 
