@@ -4,17 +4,15 @@
 
 ---Game Dev
 
-focusing on
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,gamemaker)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusT177&layout=compact)
 
 
----Web Dev Skills
+---Web Dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,php,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,php,react,vue,sass)](https://skillicons.dev)
 
 
 Useful Tools 😀
