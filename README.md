@@ -4,7 +4,7 @@
 
 ---Game Dev
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,gamemaker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,gms2)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusT177&layout=compact)
